@@ -1,0 +1,9 @@
+L,black,150,3,https://blackl.ro
+M,white,150,9,https://whitem.ro
+M,black,150,7,https://blackm.ro
+S,yellow,50,14,https://yellows.ro
+XL,orange,100,27,https://orangexl.ro
+XS,papa,12,10,https://...ro
+S,iaia,25,12,https://.....ro
+XXL,red,22,16,https://redxxl.ro
+XS,blue,22,20,https://....ro
