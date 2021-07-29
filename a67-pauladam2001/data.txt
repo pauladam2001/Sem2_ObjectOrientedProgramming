@@ -1,0 +1,11 @@
+S,brown,70,3,https://browns.ro
+XXL,grey,60,24,https://greyxxl.ro
+XS,green,80,1,https://greenxs.ro
+L,black,150,7,https://blackl.ro
+M,white,150,9,https://whitem.ro
+M,black,150,9,https://blackm.ro
+S,yellow,50,15,https://yellows.ro
+XL,orange,100,50,https://orangexl.ro
+XS,papa,12,12,https://...ro
+XS,lala,15,15,https://....ro
+L,tttt,20,20,https://..ro
